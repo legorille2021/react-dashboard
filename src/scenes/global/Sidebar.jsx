@@ -98,7 +98,7 @@ const Sidebar = () => {
                   width="100px"
                   height="100px"
                   src={`../../assets/user.jpg`}
-                  style={{ cursor: "pointer", borderRadius: "20%" }}
+                  style={{ cursor: "pointer", borderRadius: "10%"}}
                 />
               </Box>
               <Box textAlign="center">
